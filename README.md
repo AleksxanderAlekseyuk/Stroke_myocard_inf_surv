@@ -1,4 +1,4 @@
-# Possibilities of Gradient Boosting in Predicting Mortality in Patients with Acute IHD on the Background of Acute Cerebral Circulation Failure
+# Possibilities of Gradient Boosting in Predicting Mortality in Patients with Acute IHD on the Background of Cerebral infarction 
 
 
 Purpose of work. Build a GBM (gradient boosting) machine learning model that predicts outcome in patients with ischemic cerebral infarction (ICI) complicated by acute coronary artery disease.
